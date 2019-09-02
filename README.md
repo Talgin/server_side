@@ -1,8 +1,8 @@
-Some code added to work with insightface's RetinaFace face detector
+Some code was added to work with data: extraction of features, comparison of features (1:1, 1:N). 
 
-We've added streaming and saving frames with faces from video stream
+Also script was added to get embeddings from batch of images
 
-Also, the tests were done in alignment, cropping of detected faces
+Code was added to crop and align images from video stream.
 
 For more information about the code, please, write to islamgozhayev@yandex.ru
 
